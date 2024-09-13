@@ -1,0 +1,9 @@
+{
+    "name":"Rodolfo",
+    "email:":"alessandropedrosoti@gmail.com",
+    "hobbies":["Academia","Ler","Estudar"],
+    "address":{
+        "street":"rua do Jobs",
+        "number":"75"
+    }
+}
